@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-14_1628",
+    "name": "boggede",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -36,6 +36,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.6.11",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/bogged_1.png",
+    "mbrsiteDomain": "d37r9p6hbe",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.6.11"
   },
@@ -43,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Bogged - All-In-One Platform for DeFi Trading.",
+        "meta_descr": "Bogged offers charts, limit orders, stop losses and much more for DeFi traders on BSC, Avax, Cronos & more. ... Bogged Finance DeFi limit orders work just like on centralised exchanges. This incredibly valuable trading tool can automate aspects of your trading strategy, allowing you to catch dips or collect profits while you sleep. ...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
